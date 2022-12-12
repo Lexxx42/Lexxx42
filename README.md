@@ -6,4 +6,8 @@
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=Lexxx42&style=flat-square&color=blue" alt=""/>
+  <h1>
+  hey there
+  <img src="https://media.giphy.com/media/4Z4FRLEzoSwivZP1SI/giphy.gif" width="30px"/>
+</h1>
 </div>
