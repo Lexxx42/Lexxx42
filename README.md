@@ -25,4 +25,4 @@ I am a QA Engineer student <img src="https://media.giphy.com/media/5dLoIhuX12Nl1
 
 - :zap: In my free time, I help other students and work on people skills.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Lexx_042)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/L̶̕e̶̔ ͌̏x̵͒x-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Lexx_042)
