@@ -25,7 +25,7 @@ I am a QA Engineer student <img src="https://media.giphy.com/media/5dLoIhuX12Nl1
 
 - :seedling: Exploring Best Practices In Workflow.
 
-- :zap: In my free time, I help other students and work on people skills.
+- :zap: In my free time, I help other students and work on my people skills.
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Lexx_042)
 
