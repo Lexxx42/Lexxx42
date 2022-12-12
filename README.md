@@ -28,3 +28,14 @@ I am a QA Engineer student <img src="https://media.giphy.com/media/5dLoIhuX12Nl1
 - :zap: In my free time, I help other students and work on people skills.
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Lexx_042)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="Csharp" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title="DotNet" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Flutter" width="40" height="40"/>&nbsp;
+</div>
