@@ -45,3 +45,7 @@ I am a QA Engineer student <img src="https://media.giphy.com/media/5dLoIhuX12Nl1
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/postman.svg" />
 </div>
+
+---
+
+### :fire: My Stats :
