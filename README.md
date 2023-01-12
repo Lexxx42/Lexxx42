@@ -52,5 +52,5 @@ I am a QA Engineer student <img src="https://media.giphy.com/media/5dLoIhuX12Nl1
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lexxx42&theme=synthwave)](https://git.io/streak-stats)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lexxx42&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lexxx42&show_icons=true&theme=radical)
 
