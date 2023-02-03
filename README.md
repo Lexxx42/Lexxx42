@@ -27,6 +27,8 @@ I am a QA Engineer student <img src="https://media.giphy.com/media/5dLoIhuX12Nl1
 
 - :zap: In my free time, I help other students and work on my people skills.
 
+- :sparkling_heart: Everyday i learn something about Software Testing and add it to [my miro board](https://miro.com/app/board/uXjVP8eVvAA=/?share_link_id=365056434504) feel free to grab some useful info :slightly_smiling_face:
+
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Lexx_042)
 
 ---
