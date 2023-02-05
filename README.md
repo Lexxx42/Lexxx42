@@ -36,16 +36,15 @@ I am a QA Engineer student <img src="https://media.giphy.com/media/5dLoIhuX12Nl1
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title="DotNet" alt="DotNet" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/postman.svg" />
+  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/2306/2306022.png" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111656.png" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/2504/2504881.png" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/183/183319.png" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="hhttps://cdn.worldvectorlogo.com/logos/postman.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 </div>
 
 ---
