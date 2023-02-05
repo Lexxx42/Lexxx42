@@ -44,7 +44,7 @@ I am a QA Engineer student <img src="https://media.giphy.com/media/5dLoIhuX12Nl1
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/2504/2504881.png" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/183/183319.png" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="hhttps://cdn.worldvectorlogo.com/logos/postman.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 </div>
 
 ---
