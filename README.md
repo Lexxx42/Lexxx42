@@ -33,10 +33,6 @@ I am a QA Engineer student <img src="https://media.giphy.com/media/5dLoIhuX12Nl1
 
 ---
 
-<iframe width="500" height="300" src="https://youtu.be/I3ancZuG4cg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://cdn-icons-png.flaticon.com/512/7187/7187399.png" title="Functional testing" alt="Functional testing" width="40" height="40"/>&nbsp;
