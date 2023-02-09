@@ -59,6 +59,6 @@ I am a QA Engineer student <img src="https://media.giphy.com/media/5dLoIhuX12Nl1
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lexxx42&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Short video about me:
+### Short video about me made with 5 AI tools:
 [![](https://markdown-videos.deta.dev/youtube/I3ancZuG4cg)](https://youtu.be/I3ancZuG4cg)
 
