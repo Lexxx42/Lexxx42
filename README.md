@@ -43,6 +43,7 @@ I am a QA Engineer student <img src="https://media.giphy.com/media/5dLoIhuX12Nl1
   <img src="https://cdn-icons-png.flaticon.com/512/5936/5936927.png" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/2504/2504881.png" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Lexxx42/Lexxx42.github.io/blob/main/images/qase.png" title="Qase" alt="Qase" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111656.png" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
