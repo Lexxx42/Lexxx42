@@ -38,7 +38,6 @@ I am a QA Engineer student <img src="https://media.giphy.com/media/5dLoIhuX12Nl1
   <img src="https://cdn-icons-png.flaticon.com/512/7187/7187399.png" title="Functional testing" alt="Functional testing" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Lexxx42/Lexxx42.github.io/blob/main/images/Pytest.png" title="Pytest" alt="Pytest" width="40" height="40"/>&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/186/186320.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/802/802251.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5936/5936927.png" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
