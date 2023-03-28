@@ -19,7 +19,7 @@
 ---
 
 # :man_technologist: About Me :
-I am a QA Engineer student <img src="https://media.giphy.com/media/5dLoIhuX12Nl1MnQJ1/giphy.gif" width="30"> from Russia.
+I am a passionate and detail-oriented Quality Assurance (QA) Engineer student with a strong interest in software testing and quality assurance. <img src="https://media.giphy.com/media/5dLoIhuX12Nl1MnQJ1/giphy.gif" width="30"> from Russia.
 
 - :telescope: I’m learning Python and trying to improve my knowledge with a lot of team work on my pet-projects.
 
