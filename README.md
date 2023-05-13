@@ -63,4 +63,3 @@ I am a passionate and detail-oriented Quality Assurance (QA) Engineer student wi
 
 ### Short video about me made with 5 AI tools:
 [![](https://markdown-videos.deta.dev/youtube/I3ancZuG4cg)](https://youtu.be/I3ancZuG4cg)
-
