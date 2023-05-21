@@ -39,7 +39,7 @@ I am a passionate and detail-oriented Quality Assurance (QA) Engineer student wi
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Lexxx42/Lexxx42.github.io/blob/main/images/Pytest.png" title="Pytest" alt="Pytest" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5936/5936927.png" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Lexxx42/Lexxx42.github.io/blob/main/images/postman-logo.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/2504/2504881.png" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Lexxx42/Lexxx42.github.io/blob/main/images/qase.png" title="Qase" alt="Qase" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png" title="Git" alt="Git" width="40" height="40"/>&nbsp;
