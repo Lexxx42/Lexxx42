@@ -47,7 +47,7 @@ I am a passionate and detail-oriented Quality Assurance (QA) Engineer student wi
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111656.png" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/183/183319.png" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" title="Linux" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/2306/2306022.png" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/186/186320.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
