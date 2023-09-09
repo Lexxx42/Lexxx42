@@ -19,7 +19,7 @@
 ---
 
 # :man_technologist: About Me :
-I am a passionate and detail-oriented Quality Assurance (QA) Engineer student with a strong interest in software testing and quality assurance.
+I am a passionate and detail-oriented Quality Assurance (QA) Engineer with a strong interest in software testing and quality assurance.
 
 - :telescope: I’m learning Python and trying to improve my knowledge with a lot of team work on my pet-projects.
 
