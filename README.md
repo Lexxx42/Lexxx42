@@ -58,6 +58,7 @@ I am a passionate and detail-oriented Quality Assurance (QA) Engineer with a str
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lexxx42&theme=synthwave)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Lexxx42&theme=synthwave)](https://git.io/streak-stats)
 
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lexxx42&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
