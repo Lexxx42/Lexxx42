@@ -25,7 +25,7 @@ I am a passionate and detail-oriented Quality Assurance (QA) Engineer with a str
 
 - :seedling: Exploring Best Practices In Workflow.
 
-- :zap: In my free time, I help other students and work on my people skills.
+- :zap: In my free time, I help students and work on my people skills.
 
 - :sparkling_heart: Everyday I learn something about Software Testing and add it to [my miro board](https://miro.com/app/board/uXjVP8eVvAA=/?share_link_id=365056434504). Feel free to grab some useful info :slightly_smiling_face:
 
